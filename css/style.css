@@ -1,0 +1,12 @@
+* li {
+  list-style: none;
+}
+
+* a {
+  text-decoration: none;
+}
+
+.table-responsive {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.137);
+  border-radius: 20px;
+}/*# sourceMappingURL=style.css.map */
